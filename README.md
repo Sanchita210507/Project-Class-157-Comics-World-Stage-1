@@ -1,4 +1,4 @@
-# PRO C157 Create Thumbnails
+# Creating Thumbnails
 
 
-Create a basic structure for the virtual tour. Create the HTML page for the virtual tour and add the content as entities to the page.
+Creating a basic structure for virtual comic store. Create the HTML page for the comic store and add the content as entities to the page.
